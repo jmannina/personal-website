@@ -1,0 +1,34 @@
+#imagework{
+  max-width: 40%;
+  margin-bottom: 5%;
+}
+
+#headerimage{
+  width:100%;
+
+}
+
+#imageweather1{
+  max-width: 100%;
+}
+
+#listgroupitem{
+  background-color: #121212;
+  max-width: 60%;
+}
+
+
+#containerwork{
+    border-radius: 10;
+    border-bottom: white;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    background-color: white;
+    color: 	rgb(61, 108, 152);
+    
+}
+
+#colwork{
+  text-align: center;
+}

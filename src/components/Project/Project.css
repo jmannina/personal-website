@@ -1,0 +1,22 @@
+#projectContainer{
+    background-color: black;
+    background: 
+    /* top, transparent red, faked with gradient */ 
+    linear-gradient(
+      rgba(0, 0, 0, 0.4), 
+      rgba(0, 0, 0, 0.4)
+    ),
+    /* bottom, image */
+    url(/project.jpg);
+    background-size: cover;
+    height: auto;
+    position: relative;
+    z-index: -2;
+    text-align: center;
+    color: #ffffff;
+}
+
+#row {
+  margin-top: 30px;
+  
+}

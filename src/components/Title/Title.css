@@ -1,0 +1,18 @@
+#navbar {
+    background: rgba(61, 108, 152);
+    color: black;
+    justify-content: end;
+    text-align: center;
+    
+    
+}
+
+#navlink {
+    color: white;
+}
+
+#navlink:hover{
+    color: lightblue;
+}
+
+
