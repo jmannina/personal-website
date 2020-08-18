@@ -1,0 +1,17 @@
+
+#containerfooter {
+    size: 200px;
+    background-color: rgb(61, 108, 152);
+    background-size: cover;
+    color: white;
+}
+
+#colfooter {
+    text-align: center;
+    background-color: transparent;
+}
+
+#imagefooter:hover {
+    border-style: solid;
+    border-color: rgb(61, 108, 152);
+   }

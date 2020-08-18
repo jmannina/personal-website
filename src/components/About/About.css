@@ -1,0 +1,35 @@
+.jumbo {
+    background-color: #121212;
+    background: 
+    /* top, transparent red, faked with gradient */ 
+    linear-gradient(
+      rgba(0, 0, 0, 0.4), 
+      rgba(0, 0, 0, 0.4)
+    ),
+    /* bottom, image */
+    url(/about.jpg);
+    background-size: cover;
+    height: auto;
+    position: relative;
+    z-index: -2;
+    text-align: center;
+    color: #ffffff;
+}
+
+.overlay {
+    position: 'absolute';
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: -1;
+   
+}
+
+
+.containertxt{
+    position: absolute;
+    margin-bottom: 0; 
+    font-size: 32px;
+    
+}
